@@ -9,7 +9,6 @@ The project utilizes the following technologies:
 - HTML5
 - CSS3
 - JavaScript
-- [List any other technologies or libraries used]
-
+- Figma Design
 
 
