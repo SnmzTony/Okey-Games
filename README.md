@@ -1,3 +1,15 @@
-My Okey-Games Project. 
-I did okey game frontend for freelancer work.
+This project contains the frontend part of a web-based game. The objective of the game is [briefly state the objective of the game].
+
+
+
+## Technologies
+
+The project utilizes the following technologies:
+
+- HTML5
+- CSS3
+- JavaScript
+- [List any other technologies or libraries used]
+
+
 
